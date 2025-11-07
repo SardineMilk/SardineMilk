@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @SardineMilk
-- I'm currently learning how to code
-- I'm focusing on Python and Godot
-- My current main project is a voxel engine
+- 👋 Hi, I’m Thomas, aka @SardineMilk
+- I'm a Computer Science Undergrad at Heriot Watt university
+- I'm interested in:
+  - Graphics programming
+  - Voxel engines
+  - Unorthodox rendering techniques
+  - CPU software renderers
